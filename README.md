@@ -50,7 +50,7 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenamSingla&layout=compact&theme=radical)
 
- [//] ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HenamSingla&theme=flat&margin-w=10&margin-h=15)
+[//]: # "![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HenamSingla&theme=flat&margin-w=10&margin-h=15)"
 ---
 
 ### Bonus: My Code Vibes
