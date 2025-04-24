@@ -16,9 +16,16 @@
 
 ---
 
+
 ## 🛠️ My Tech Playground
 
 _Favorite Tools: Python 🐍, Pandas, SQL, and Power BI. Always experimenting with new ML techniques and workflows!_
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ---
 
@@ -50,25 +57,13 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 
 ## 🔥 My GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HenamSingla&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenamSingla&theme=radical&show_icons=true)
-
----
-
-## 🚀 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenamSingla&layout=compact&theme=radical)
 
----
-
-## 🏅 GitHub Trophies
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HenamSingla&theme=flat&margin-w=10&margin-h=15)
-
-
-## 🔥 My Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HenamSingla&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 ---
 
 ### Bonus: My Code Vibes
