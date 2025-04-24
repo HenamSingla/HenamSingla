@@ -32,7 +32,7 @@ _Favorite Tools: Python 🐍, Pandas, SQL, and Power BI. Always experimenting wi
 ## 💬 Let’s Link Up
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/henamsingla/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat)](mailto:henam@example.com)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat)](mailto:singlahenam45@gmail.com)
 
 ---
 
