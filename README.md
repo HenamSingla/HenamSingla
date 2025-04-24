@@ -53,13 +53,6 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 [//]: # "![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HenamSingla&theme=flat&margin-w=10&margin-h=15)"
 
 
-![Visitors](https://count.getloli.com/get/@HenamSingla?theme=gelbooru)
-
-
-
-![Visitors](https://count.getloli.com/get/@HenamSingla?theme=flat)
-
-
 ### Bonus: My Code Vibes
 
 ```python
