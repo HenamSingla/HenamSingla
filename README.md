@@ -57,9 +57,20 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 
 [//]: # "![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HenamSingla&theme=flat&margin-w=10&margin-h=15)"
 
----
+### Bonus: My Code Vibes
+
+```python
+# Just keep shipping 🚢
+for problem in world:
+    if "data" in problem:
+        solution = model.fit(problem)
+        visualize(solution)
+
+
 
 ![Visitors](https://img.shields.io/badge/visitors-258-purple?style=for-the-badge)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HenamSingla.HenamSingla&color=8e44ad)
 
 
 
