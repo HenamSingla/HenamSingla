@@ -53,10 +53,15 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 </div>
 
 
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HenamSingla&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=HenamSingla&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=HenamSingla&theme=radical&show_icons=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenamSingla&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenamSingla&theme=radical&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenamSingla&layout=compact&theme=radical)
 
