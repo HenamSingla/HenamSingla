@@ -52,6 +52,13 @@ I believe every dataset tells a story—sometimes, you just need the right code 
   <img src="https://github-readme-stats.vercel.app/api?username=HenamSingla&theme=radical&show_icons=true" alt="GitHub Stats" height="200"/>
 </div>
 
+<div align="center">
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenamSingla&layout=compact&theme=radical" height="200"/>
+  </a>
+</div>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenamSingla&layout=compact&theme=radical)
 
 [//]: # "![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HenamSingla&theme=flat&margin-w=10&margin-h=15)"
