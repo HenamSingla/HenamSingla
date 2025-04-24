@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 ## 🔥 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenamSingla&theme=radical&show_icons=true)
 
 ## 🚀 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenamSingla&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=flat&margin-w=10&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HenamSingla&theme=flat&margin-w=10&margin-h=15)
 
