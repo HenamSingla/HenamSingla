@@ -58,9 +58,7 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 [//]: # "![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HenamSingla&theme=flat&margin-w=10&margin-h=15)"
 
 
-![Visitors](https://img.shields.io/badge/visitors-258-purple?style=for-the-badge)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HenamSingla.HenamSingla&color=8e44ad)
+![Visitors](https://img.shields.io/badge/visitors-694-purple?style=for-the-badge)
 
 
 
