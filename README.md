@@ -56,6 +56,10 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 ![Visitors](https://count.getloli.com/get/@HenamSingla?theme=gelbooru)
 
 
+
+![Visitors](https://count.getloli.com/get/@HenamSingla?theme=flat)
+
+
 ### Bonus: My Code Vibes
 
 ```python
@@ -65,7 +69,6 @@ for problem in world:
         solution = model.fit(problem)
         visualize(solution)
 
-![Visitors](https://count.getloli.com/get/@HenamSingla?theme=flat)
 
 
 
