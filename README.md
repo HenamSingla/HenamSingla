@@ -6,6 +6,8 @@
 - 🎨 Avid foodie & data viz enthusiast | Love exploring new cuisines and cultures  
 - 🤝 Let’s connect on tech, research, or anything outdoors!
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/henamsingla/)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat)](mailto:singlahenam45@gmail.com)
 ---
 
 ## 💼 Current Projects
@@ -25,33 +27,18 @@ _Favorite Tools: Python 🐍, Pandas, SQL, and Power BI. Always experimenting wi
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
 ---
 
 ## 🌱 What I’m Learning
 
 - Advanced MLOps | AWS cloud for data science
 - Scalable data pipelines | Visualization magic in Python
-
----
-
-## 💬 Let’s Link Up
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/henamsingla/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat)](mailto:singlahenam45@gmail.com)
-
 ---
 
 ## 🏆 Fun Fact
 
 I believe every dataset tells a story—sometimes, you just need the right code to find it!
-
----
-
-## 🌄 Quote I Live By
-
-> “At the top of one mountain is the bottom of the next. I’m all about the climb.” 🏔️
+“At the top of one mountain is the bottom of the next. I’m all about the climb.” 🏔️
 
 ---
 
@@ -63,7 +50,7 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenamSingla&layout=compact&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HenamSingla&theme=flat&margin-w=10&margin-h=15)
+ [//] ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HenamSingla&theme=flat&margin-w=10&margin-h=15)
 ---
 
 ### Bonus: My Code Vibes
