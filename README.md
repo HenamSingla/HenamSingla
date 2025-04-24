@@ -65,6 +65,7 @@ for problem in world:
         solution = model.fit(problem)
         visualize(solution)
 
+![Visitors](https://count.getloli.com/get/@HenamSingla?theme=flat)
 
 
 
