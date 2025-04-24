@@ -59,7 +59,8 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 
 ---
 
-![Visitors](https://count.getloli.com/get/@HenamSingla?theme=gelbooru)
+![Visitors](https://img.shields.io/badge/visitors-258-purple?style=for-the-badge)
+
 
 
 
