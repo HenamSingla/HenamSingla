@@ -51,9 +51,9 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenamSingla&layout=compact&theme=radical)
 
 [//]: # "![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HenamSingla&theme=flat&margin-w=10&margin-h=15)"
----
 
-![Visitor Count](https://count.getloli.com/get/@HenamSingla?theme=moebooru)
+
+![Visitors](https://count.getloli.com/get/@HenamSingla?theme=gelbooru)
 
 
 ### Bonus: My Code Vibes
@@ -65,7 +65,6 @@ for problem in world:
         solution = model.fit(problem)
         visualize(solution)
 
----
 
 
 
