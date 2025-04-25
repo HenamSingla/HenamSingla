@@ -67,6 +67,90 @@ _Favorite Tools: Python 🐍, Pandas, SQL, and Power BI. Always experimenting wi
 </div>
 
 
+**Data Scientist | Economics & Machine Learning | Open to Collaboration**
+
+I’m a passionate data scientist based in **Houston, TX** (originally from India), with broad experience in building real-world solutions using **Python, SQL, R, Stata, Power BI, Tableau, and cloud tools**. My work bridges machine learning, causal inference, and economic research across the **energy, public policy, and finance sectors**.
+
+Currently, I work as a **Data Scientist at Enerpact**, where I built and deployed a Python-based oil & gas forecasting tool that increased user adoption by 25% and improved project success rates by 30%. I design SQL-powered dashboards and production models to help teams make better data-driven decisions.
+
+🚀 **Doctoral Researcher at the University of Houston - Hobby School of Public Affairs** (2024–2025), with research focused on labor markets, skills, and the impact of technology on economic outcomes.
+
+---
+
+### 🔧 Tech Stack
+- **Languages**: Python, SQL, R, Stata
+- **Frameworks**: Scikit-learn, Pandas, NumPy, Flask, Statsmodels
+- **Databases**: PostgreSQL, MySQL, MS SQL Server, SQLite
+- **Visualization**: Power BI, Tableau, Looker, Matplotlib, Seaborn
+- **Cloud & Tools**: AWS, Git, GitHub, Docker
+
+---
+
+### 🔭 What I’m Working On
+- Building and deploying production ML models for forecasting and classification in energy and finance
+- Leading dashboard development and automation using SQL and Power BI/Tableau for business decision support
+- Researching machine learning and causal inference for labor market analysis, wage dynamics, and job transitions
+- Publishing data science and econometrics articles on [Substack](https://henam.substack.com/)
+- Preparing to launch open-source tools for econometrics automation and skill-gap analytics
+
+---
+
+### 🏆 Achievements
+- Deployed production ML tools adopted by 25% more users at Enerpact
+- Increased new project success rate by 30% through statistical modeling
+- Improved firm-to-firm prediction accuracy by 15% at NYU using deep learning
+- Reduced manual reporting work for policy teams by 50% at IIMB via Power BI dashboards
+- Led a team to build real-time payment fraud detection at Zerone Microsystems
+
+---
+
+### 🛠️ Notable Projects
+🔹 [Customer Category Predictor](https://github.com/henamsingla/customer-category-predictor)  
+> ML tool for customer classification and predictive analytics
+
+🔹 [Headline Similarity Clustering](https://github.com/henamsingla/news-headline-similarity)  
+> NLP-based cosine similarity and clustering of news headlines
+
+🔹 [Nifty50 & Midcap50 Regression](https://github.com/henamsingla/nifty50-midcap50-regression)  
+> Statistical analysis and modeling of index price relationships
+
+---
+
+### 📈 GitHub Stats
+
+<a href="https://github.com/henamsingla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henamsingla&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+</a>
+<a href="https://github.com/henamsingla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henamsingla&layout=compact&theme=radical&hide_border=false" />
+</a>
+
+---
+
+### 💬 Ask Me About
+- Machine Learning, Python, SQL
+- Applied econometrics & causal inference
+- Data visualization (Power BI/Tableau)
+- Data storytelling for business teams
+
+---
+
+### 🌱 Goals for 2025
+
+- [ ] 🚀 Develop open-source econometrics tools for the data science community
+- [ ] 📘 Deepen expertise in deep learning & NLP applications for labor economics
+- [ ] ☁️ Earn AWS Machine Learning Speciality certification
+- [ ] 🧪 Publish research on labor market impacts of automation & AI
+- [ ] 🧱 Contribute to open-source ML and analytics projects
+- [ ] 📊 Master dashboard automation with Power BI & Tableau extensions
+- [ ] 🤝 Collaborate with global teams on research and industry projects
+- [ ] ✍️ Grow my Substack and Medium blogs with accessible data science content
+
+---
+
+*Feel free to reach out for collaboration, mentorship, or opportunities!*
+
+
 
 ## Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=HenamSingla&color=blue&style=flat-square)
