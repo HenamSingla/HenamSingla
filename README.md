@@ -61,6 +61,14 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 </div>
 
 
+### 📈 GitHub Stats
+<a href="https://github.com/sams52s">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenamSingla&count_private=true&show_icons=true&theme=tokyonight&hide_border=false" />
+</a>
+<a href="https://github.com/sams52s">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenamSingla&layout=compact&theme=tokyonight&hide_border=false" />
+</a>
+
 
 ## Visitors Stat
 ![Visitors](https://img.shields.io/badge/visitors-857-purple?style=for-the-badge)
