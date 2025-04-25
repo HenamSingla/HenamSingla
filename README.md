@@ -44,23 +44,19 @@ _Favorite Tools: Python 🐍, Pandas, SQL, Power BI, and Tableau. Always experim
 ---
 
 
-
 ## 🔥 My GitHub Stats
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=HenamSingla&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
-  </a>
-  <a href="https://github.com/HenamSingla">
-    <img src="https://github-readme-stats.vercel.app/api?username=HenamSingla&theme=radical&show_icons=true" alt="GitHub Stats" height="180"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HenamSingla&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HenamSingla&theme=radical&show_icons=true" alt="GitHub Stats" height="180"/>
+</p>
 
 <br/>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenamSingla&layout=compact&theme=radical" alt="Top Languages" height="130"/>
-</div>
+</p>
+
 
 ---
 
