@@ -49,8 +49,15 @@ I believe every dataset tells a story—sometimes, you just need the right code 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=HenamSingla&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=HenamSingla&theme=radical&show_icons=true" alt="GitHub Stats" height="180"/>
+  <img src=""/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HenamSingla&theme=radical&show_icons=true" alt="GitHub Stats" height="180" alt="Top Languages" height="130"/>
+</div>
+
 
 <br/>
 
