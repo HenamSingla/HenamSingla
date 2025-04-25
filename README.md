@@ -1,8 +1,6 @@
-# 👋 Hey there, I'm Henam Singla!
-
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Toufiqul Alam Sams</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Henam Singla!</h1>
 
 [![LinkedIn](https://img.shields.io/static/v1?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://linkedin.com/in/toufiqul-alam-sams-8a771518a)
 [![GitHub](https://img.shields.io/static/v1?color=black&label=GitHub&logo=github&logoColor=white&style=for-the-badge&message=Follow)](https://github.com/sams52s)
