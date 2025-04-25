@@ -13,18 +13,15 @@
 [![Email](https://img.shields.io/static/v1?color=red&label=Email&logo=gmail&logoColor=white&style=for-the-badge&message=Mail)](mailto:singlahenam45@gmail.com)
 ---
 
-## 💼 Current & Notable Projects
+## 💼 Notable Projects
 
-- **Customer Category Predictor:**  
-  [GitHub Repo](https://github.com/henamsingla/customer-category-predictor)  
+- **Customer Category Predictor:**  [GitHub Repo](https://github.com/HenamSingla/CustomerCategoryPredictor)  
   Supervised ML pipeline for customer classification and predictive analytics, built with scikit-learn and pandas.
 
-- **Headline Similarity Clustering:**  
-  [GitHub Repo](https://github.com/henamsingla/news-headline-similarity)  
+- **Headline Similarity Clustering:**  [GitHub Repo](https://github.com/HenamSingla/Similartext)  
   NLP project clustering news headlines using cosine similarity and KMeans, powered by scikit-learn and spaCy.
 
-- **Nifty50 & Midcap50 Regression:**  
-  [GitHub Repo](https://github.com/henamsingla/nifty50-midcap50-regression)  
+- **Nifty50 & Midcap50 Regression:**  [GitHub Repo](https://github.com/HenamSingla/nifty50)  
   Statistical modeling and time series regression analysis of Indian stock indices using pandas, statsmodels, and matplotlib.
   
 - **Machine Learning for Causal Inference:**  
@@ -46,13 +43,7 @@ _Favorite Tools: Python 🐍, Pandas, SQL, Power BI, and Tableau. Always experim
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-### 💬 Ask Me About
-- Machine Learning, Python, SQL
-- Applied econometrics & causal inference
-- Data visualization (Power BI/Tableau)
-- Data storytelling for business teams
 
----
 
 ## 🔥 My GitHub Stats
 
