@@ -1,5 +1,14 @@
 # 👋 Hey there, I'm Henam Singla!
 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Toufiqul Alam Sams</h1>
+
+[![LinkedIn](https://img.shields.io/static/v1?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://linkedin.com/in/toufiqul-alam-sams-8a771518a)
+[![GitHub](https://img.shields.io/static/v1?color=black&label=GitHub&logo=github&logoColor=white&style=for-the-badge&message=Follow)](https://github.com/sams52s)
+[![Email](https://img.shields.io/static/v1?color=red&label=Email&logo=gmail&logoColor=white&style=for-the-badge&message=Mail)](mailto:toufiqul.sams@gmail.com)
+
+
 - 🇮🇳 Born and raised in India | Now in Houston, TX  
 - 👩‍💻 Data Scientist & Economist | Passionate about ML, econometrics, & all things data-driven  
 - 🐶 Dog mom | Always up for a hike or a nature adventure  
@@ -35,10 +44,10 @@ _Favorite Tools: Python 🐍, Pandas, SQL, and Power BI. Always experimenting wi
 - Scalable data pipelines | Visualization magic in Python
 ---
 
-## 🏆 Fun Fact
-
-I believe every dataset tells a story—sometimes, you just need the right code to find it!
-“At the top of one mountain is the bottom of the next. I’m all about the climb.” 🏔️
+### 💬 Ask Me About
+- Python
+- Statistics
+- SQL tuning
 
 ---
 
@@ -62,7 +71,7 @@ I believe every dataset tells a story—sometimes, you just need the right code 
 
 
 
-## Visitors Stat
+## Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=HenamSingla&color=blue&style=flat-square)
 <a href="https://github.com/HenamSingla?tab=followers"><img src="https://img.shields.io/github/followers/HenamSingla?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/HenamSingla?tab=followers"><img src="https://img.shields.io/github/watchers/HenamSingla/sams52s?style=social" alt="GitHub Badge"></a>
