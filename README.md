@@ -54,7 +54,6 @@ _Favorite Tools: Python 🐍, Pandas, SQL, Power BI, and Tableau. Always experim
 </a>
   
 <img src="https://github-readme-stats.vercel.app/api?username=HenamSingla&theme=radical&show_icons=true" alt="GitHub Stats" height="180"/>
-
 </div>
 
 <br/>
