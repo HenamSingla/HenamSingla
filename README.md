@@ -2,9 +2,7 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Henam Singla!</h1>
 
-[![LinkedIn](https://img.shields.io/static/v1?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://linkedin.com/in/toufiqul-alam-sams-8a771518a)
-[![GitHub](https://img.shields.io/static/v1?color=black&label=GitHub&logo=github&logoColor=white&style=for-the-badge&message=Follow)](https://github.com/sams52s)
-[![Email](https://img.shields.io/static/v1?color=red&label=Email&logo=gmail&logoColor=white&style=for-the-badge&message=Mail)](mailto:toufiqul.sams@gmail.com)
+
 
 
 - 🇮🇳 Born and raised in India | Now in Houston, TX  
@@ -13,8 +11,9 @@
 - 🎨 Avid foodie & data viz enthusiast | Love exploring new cuisines and cultures  
 - 🤝 Let’s connect on tech, research, or anything outdoors!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/henamsingla/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat)](mailto:singlahenam45@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/henamsingla/)
+[![GitHub](https://img.shields.io/static/v1?color=black&label=GitHub&logo=github&logoColor=white&style=for-the-badge&message=Follow)](https://github.com/HenamSingla)
+[![Email](https://img.shields.io/static/v1?color=red&label=Email&logo=gmail&logoColor=white&style=for-the-badge&message=Mail)](mailto:singlahenam45@gmail.com)
 ---
 
 ## 💼 Current Projects
