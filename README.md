@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Henam Singla!</h1>
 
-- 🇮🇳 Born and raised in India | Now in Houston, TX  
+- 🇮🇳 Born and raised in India | Now in United States 
 - 👩‍💻 Data Scientist & Economist | Passionate about ML, econometrics, & all things data-driven  
 - 🐶 Dog mom | Always up for a hike or a nature adventure  
 - 🎨 Avid foodie & data viz enthusiast | Love exploring new cuisines and cultures  
